@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: iranyekan-m;
+  src: url("../fonts/Qs_Iranyekan\ medium.ttf");
+}
+@font-face {
+  font-family: iranyekan-b;
+  src: url("../fonts/Qs_Iranyekan\ bold.ttf");
+}
+body {
+  font-family: iranyekan-m;
+  direction: rtl;
+}
